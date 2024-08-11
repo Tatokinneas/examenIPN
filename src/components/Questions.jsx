@@ -44,7 +44,7 @@ const listQuestionsEsp = [
 const Questions = () => {
   const uniqueMaterias = [...new Set(listQuestionsEsp.map(question => question.materia))];
   return (
-    <section className=" col-span-2 lg:max-h-[600px] overflow-y-auto p-4rounded-lg shadow-m ">
+    <section className=" col-span-3 md:col-span-2 lg:max-h-[600px] overflow-y-auto p-4rounded-lg shadow-m ">
       <p className="my-3">Preguntas de {uniqueMaterias}</p>
       {listQuestionsEsp.map((e) => {
         return (
