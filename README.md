@@ -43,4 +43,4 @@ Las contribuciones son bienvenidas. Por favor, sigue los siguientes pasos para c
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para obtener más información.
 
 ## Contacto
-Si tienes alguna pregunta o sugerencia, no dudes en contactarnos en correo@ejemplo.com.
+Si tienes alguna pregunta o sugerencia, no dudes en contactarnos en tatokinneas@gmail.com
