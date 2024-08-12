@@ -18,3 +18,24 @@ UniversidadSimulador es una aplicación diseñada para ayudar a los estudiantes 
 2. Navega al directorio del proyecto:
    ```bash
    cd UniversidadSimulador
+
+
+## Uso
+	1.	Registro/Iniciar Sesión: Crea una cuenta o inicia sesión para guardar tu progreso y resultados.
+	2.	Seleccionar Examen: Elige el examen de simulacro que deseas realizar desde el menú principal.
+	3.	Realizar Examen: Responde las preguntas dentro del límite de tiempo establecido.
+	4.	Ver Resultados: Consulta tus resultados y revisa las áreas en las que puedes mejorar.
+
+## Contribuciones
+Las contribuciones son bienvenidas. Por favor, sigue los siguientes pasos para contribuir al proyecto:
+
+	1.	Haz un fork del repositorio.
+	2.	Crea una rama para tu característica o corrección de errores (git checkout -b feature/nueva-caracteristica).
+	3.	Realiza tus cambios y haz commit (git commit -am 'Añadir nueva característica').
+	4.	Envía un pull request.
+
+## Licencia
+Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para obtener más información.
+
+## Contacto
+Si tienes alguna pregunta o sugerencia, no dudes en contactarnos en correo@ejemplo.com.
