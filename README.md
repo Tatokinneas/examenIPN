@@ -1,4 +1,4 @@
-# UniversidadSimulador
+# Examen IPN - Simulador de examenes para ingresar al IPN
 
 UniversidadSimulador es una aplicación diseñada para ayudar a los estudiantes a prepararse para los exámenes de ingreso a la universidad a través de simulacros de exámenes. La aplicación ofrece una variedad de pruebas basadas en exámenes reales, permitiendo a los usuarios evaluar su preparación y mejorar sus habilidades.
 
@@ -15,3 +15,6 @@ UniversidadSimulador es una aplicación diseñada para ayudar a los estudiantes 
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/usuario/UniversidadSimulador.git
+2. Navega al directorio del proyecto:
+   ```bash
+   cd UniversidadSimulador
