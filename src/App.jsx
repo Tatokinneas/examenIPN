@@ -1,17 +1,11 @@
-
-import './App.css'
-import MainMenu from './pages/mainMenu'
+import MainMenu from "./pages/mainMenu";
 
 function App() {
- 
-
   return (
-   <>
-   <MainMenu />
-   
+    <>
+      <MainMenu />
     </>
-  )
+  );
 }
 
-
-export default App
+export default App;
