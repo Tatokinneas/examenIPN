@@ -18,6 +18,12 @@ UniversidadSimulador es una aplicación diseñada para ayudar a los estudiantes 
 2. Navega al directorio del proyecto:
    ```bash
    cd UniversidadSimulador
+3. Instala las dependencias
+   ```bash
+   npm install
+4. Inicia la aplicación:
+   ```bash
+   npm start
 
 
 ## Uso
