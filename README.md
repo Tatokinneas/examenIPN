@@ -23,9 +23,8 @@ UniversidadSimulador es una aplicación diseñada para ayudar a los estudiantes 
    npm install
 4. Inicia la aplicación:
    ```bash
-   npm start
-
-
+   npm run dev
+   
 ## Uso
 	1.	Registro/Iniciar Sesión: Crea una cuenta o inicia sesión para guardar tu progreso y resultados.
 	2.	Seleccionar Examen: Elige el examen de simulacro que deseas realizar desde el menú principal.
