@@ -14,10 +14,10 @@ UniversidadSimulador es una aplicación diseñada para ayudar a los estudiantes 
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/usuario/UniversidadSimulador.git
+   git clone https://github.com/tatokinneas/examenIPN.git
 2. Navega al directorio del proyecto:
    ```bash
-   cd UniversidadSimulador
+   cd examenIPN
 3. Instala las dependencias
    ```bash
    npm install
