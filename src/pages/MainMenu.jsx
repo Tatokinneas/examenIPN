@@ -1,6 +1,6 @@
 import { MainHeader } from "../components/MainHeader";
 import SideMenu from "../components/SideMenu";
-import Questions from "../components/Questions"
+import Questions from "../components/Questions";
 
 const MainMenu = () => {
   return (
@@ -10,10 +10,11 @@ const MainMenu = () => {
         <SideMenu />
         <Questions />
       </main>
-      <footer className="flex justify-around">
-        <button className="btn">Regresar</button>
+
+      <div>Examen de simulacro</div>
+      <footer className="flex justify-around lg:mx-20">
         <button className="btn btn-success text-white">Finalizar</button>
-        <button className="btn">Siguiente</button>
+        {/* <button className="btn">Siguiente</button> */}
       </footer>
     </main>
   );
